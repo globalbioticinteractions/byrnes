@@ -1,4 +1,8 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "byrnes"
+  "format": "byrnes",
+  "resources": {
+    "byrnes/supplementary_table_1.csv": "supplementary_table_1.csv",
+    "byrnes/references.csv": "references.csv"
+  }
 }
