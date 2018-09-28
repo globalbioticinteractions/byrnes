@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "byrnes",
+  "citation": "Southern California Bight Kelp Forest Food Web data provided by Jarrett Byrnes. Also available at https://doi.org/10.1111/j.1365-2486.2011.02409.x",
   "resources": {
     "byrnes/supplementary_table_1.csv": "supplementary_table_1.csv",
     "byrnes/references.csv": "references.csv"
